@@ -44,4 +44,4 @@ Here we can use id to access the element.
 innerHTML
 ---
 we can get content of an element by using ineerHTML property.
->The innerHTML property can be used to get or change any HTML element, including <html> and <body>.
+>The innerHTML property can be used to get or change any HTML element, including html and body.
