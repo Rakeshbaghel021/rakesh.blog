@@ -1,5 +1,12 @@
+---
+title: Creating your  first  tech  blog
+author: Rakesh Baghel
+date: 2019-08-26
+hero: ./images/code.jpg
+---
+
 # It's all about javascript
-## Getting started with DOM
+## Getting started with DOM...
 
 <hr>
 <hr>
