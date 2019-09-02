@@ -1,5 +1,5 @@
 ---
-title: Creating your  first  tech  blog
+title: addEventListener
 author: Rakesh Baghel
 date: 2019-09-02
 hero: ./images/add.png
