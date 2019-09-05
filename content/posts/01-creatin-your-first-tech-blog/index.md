@@ -1,5 +1,5 @@
 ---
-title: Creating your  first  tech  blog
+title: Document Object Model
 author: Rakesh Baghel
 date: 2019-09-01
 hero: ./images/code.jpg
