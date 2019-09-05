@@ -19,3 +19,5 @@ EventTarget method is case sensitive, so you should always use correct capitaliz
 document.getElementById("button").addEventListener("click", displayDate);
 ```
 here, we use addEventListener on button .so when we click it works.
+
+...........loading..............
