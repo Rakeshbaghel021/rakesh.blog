@@ -2,7 +2,7 @@
 title: Variable hoisting
 author: Rakesh Baghel
 date: 2019-09-08
-hero: ./images/add.png
+hero: ./images/d.png
 ---
 
 # Variable hoisting in Javascript
