@@ -9,9 +9,9 @@ hero: ./images/d.png
 ***
 Hoisting is JavaScript default behavior to moving declaration on the top .Variable can used before its declaration.
 
- To understand this , first we need to understand of hoist meaning , hoist means "raise(something) by means of ropes & pulleys". now we can relate hoisting with JavaScript. JavaScript interpreter moves all declaration on the top at run time.
+ To understand this , first we need to understand of hoist meaning , hoist means "raise(something) by means like bubbles which are always on top. now we can relate hoisting with JavaScript. JavaScript interpreter moves all declaration on the top at run time.
 
- It is best practice to declare all variable at the top of their respective scopes. , JavaScript is loosely syntax language so it will not throw any error at run time if variable used before its declaration .
+ It is best practice to declare all variable at the top of their respective scopes. 
 
  But JavaScript does not allow variable used before its declaration in "use strict" mode.
 
